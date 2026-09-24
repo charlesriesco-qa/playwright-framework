@@ -1,0 +1,23 @@
+{
+  "name": "playwright-framework",
+  "version": "1.0.0",
+  "description": "Playwright Framework Repository for automated tests",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesriesco-qa/playwright-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/charlesriesco-qa/playwright-framework/issues"
+  },
+  "homepage": "https://github.com/charlesriesco-qa/playwright-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2"
+  }
+}
